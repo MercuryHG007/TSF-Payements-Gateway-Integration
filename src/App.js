@@ -1,11 +1,16 @@
-import './App.css';
+import './assets/css/App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './components/header';
+import Main from './components/main';
+import Footer from './components/footer';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Setup</h1>
-      </header>
+      <Header />
+      <Main />
+      <Footer />
     </div>
   );
 }
