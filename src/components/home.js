@@ -46,7 +46,7 @@ export default function Home() {
                         We make a living by what we get, but we make a life by what we give.
                     </h4>
                     <a
-                        href="https://www.google.com"
+                        href="https://rzp.io/l/qiOy4FKS"
                         target="_blank"
                         rel="noreferrer"
                     >
