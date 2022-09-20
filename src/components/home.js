@@ -46,7 +46,7 @@ export default function Home() {
                         We make a living by what we get, but we make a life by what we give.
                     </h4>
                     <a
-                        href="https://rzp.io/l/qiOy4FKS"
+                        href="https://pages.razorpay.com/pl_KKJAq4OFRpuV7u/view"
                         target="_blank"
                         rel="noreferrer"
                     >
